@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293671296887",
+    "project_id": "trippy-tip",
+    "storage_bucket": "trippy-tip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293671296887:android:9eb05daa703cf1d35c0b72",
+        "android_client_info": {
+          "package_name": "com.example.trippytip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293671296887-f45sdpeiidbprca8eqigj8pnpo2r4bp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs72FvMYVDF0cPfTmYCBNqZqlAsB83FQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293671296887-f45sdpeiidbprca8eqigj8pnpo2r4bp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
