@@ -10,8 +10,6 @@ Cloud Firestore and Storage.
 
 # Screenshots
 
-![image](https://user-images.githubusercontent.com/64042650/113472858-691bfa80-9483-11eb-9394-64c65bf0cdb0.png)
-![image](https://user-images.githubusercontent.com/64042650/113472885-a1bbd400-9483-11eb-8ddd-07391f90043b.png)
-![image](https://user-images.githubusercontent.com/64042650/113472888-aaaca580-9483-11eb-9c99-c45b739bb334.png)
+https://user-images.githubusercontent.com/64042650/113474670-f31d9080-948e-11eb-8f8a-6ff98f29339f.mp4
 
 
